@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Vishwambar Waghamode 👋
 
-<!--
-**Vishwambar16/Vishwambar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Aspiring Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+I'm passionate about Cloud Computing, AWS Infrastructure, Linux Administration, Containerization, and DevOps Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on AWS Cloud and DevOps projects.
+- 🌱 Learning AWS, Linux, Docker, Jenkins, and CI/CD.
+- 💻 Exploring cloud infrastructure, automation, and deployment.
+- 🛠️ Interested in Python, Git, GitHub, and Bash scripting.
+- 🎯 Goal: Build scalable, reliable, and automated cloud solutions.
+
+### 🧰 Technologies & Tools
+
+- **Cloud:** AWS (EC2, S3, IAM, VPC, Lambda)
+- **Operating Systems:** Linux, Ubuntu, Windows
+- **Containerization:** Docker, Docker Compose
+- **DevOps:** Git, GitHub, Jenkins, CI/CD
+- **Programming:** Python, SQL
+- **Database:** MySQL
+
+### 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/vishwambar-waghamode/
+- Email: vishwambar16@gmail.com
+
+---
+
+⭐ Always learning, building, and improving!
